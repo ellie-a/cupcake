@@ -1,0 +1,22 @@
+.flashy {
+  color: red;
+  font-weight: bold;
+}
+
+.best {
+  font-weight: bolder;
+  font-size: 18px
+}
+
+.big {
+  width: 75%;
+}
+
+.orange {
+  color: orange;
+}
+
+.black {
+  background-color: black;
+  color: orange;
+}
